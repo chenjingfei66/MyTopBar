@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="Mytopbar">
+
+        <attr name="leftButtonColor" format="reference|color"></attr>
+        <attr name="leftButtonText" format="string"></attr>
+        <attr name="titleColor" format="reference|color"></attr>
+        <attr name="titleText" format="string"></attr>
+        <attr name="rigthButtonColor" format="reference|color"></attr>
+        <attr name="rigthButtonText" format="string"></attr>
+
+    </declare-styleable>
+
+</resources>
